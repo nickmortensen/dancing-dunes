@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 455.1 110.4" style="enable-background:new 0 0 455.1 110.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#808285;stroke-width:0.4583;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#6D6E71;stroke-width:0.6111;stroke-miterlimit:10;}
+	.st2{fill:#6D6E71;}
+	.st3{fill:#808285;}
+	.st4{font-family:'MyriadPro-Regular';}
+	.st5{font-size:4.0862px;}
+	.st6{fill:#FFFFFF;}
+	.st7{fill:#FFFFFF;stroke:#808285;stroke-width:0.4835;stroke-miterlimit:10;}
+</style>
+<rect id="larger-roof" x="0.2" y="4.3" class="st0" width="440.5" height="52.2"/>
+<rect id="base-house" x="6.6" y="56.6" class="st0" width="426" height="53.6"/>
+<g id="g-porch-concrete">
+	<rect id="bottom" x="79.1" y="104.3" class="st1" width="143.8" height="5.7"/>
+	<rect id="top" x="77.5" y="101.5" class="st1" width="145.6" height="2.3"/>
+</g>
+<g id="g-frontdoor">
+	<rect id="behindsidelight" x="103.3" y="57.2" class="st1" width="7.8" height="41.2"/>
+	<path id="frontdoor" class="st1" d="M83.3,57.7v40.6H103V57.7H83.3z M91,94.1h-4.6v-5.1H91V94.1z M91,87.4h-4.6V68.8H91V87.4z
+		 M91,67.4h-4.6v-5.1H91V67.4z M99.3,94.1h-4.6v-5.1h4.6V94.1z M99.3,87.4h-4.6V68.8h4.6V87.4z M99.3,67.4h-4.6v-5.1h4.6V67.4z"/>
+	<path id="sidelight" class="st1" d="M104.7,57.2v41.2h7.8V57.2H104.7z M111,94.3h-5L106,59.2h5L111,94.3z"/>
+</g>
+<g id="g-mainwindow">
+	<path id="mainwindow" class="st1" d="M138.9,57.9v29.9h59.9V57.9H138.9z M151.5,86.7h-9.4V59h9.4V86.7z M162.5,86.7h-9.4V59h9.4
+		V86.7z M173.5,86.7h-9.4V59h9.4V86.7z M184.5,86.7h-9.4V59h9.4V86.7z M195.5,86.7h-9.4V59h9.4V86.7z"/>
+	<path id="mainwindow-shutter-right" class="st1" d="M200.2,58v29.3h6.6V58H200.2z M205.6,85.7H201V71.4h4.5V85.7z M205.6,69.7H201
+		V59.5h4.5V69.7z"/>
+	<path id="mainwindow-shutter-left" class="st1" d="M131.1,58v29.3h6.6V58H131.1z M136.4,85.7h-4.5V71.4h4.5V85.7z M136.4,69.7h-4.5
+		V59.5h4.5V69.7z"/>
+</g>
+<rect id="upright-next-to-door" x="78.7" y="56.4" class="st2" width="2.1" height="45.4"/>
+<path id="bannister" class="st3" d="M220.7,90.4v-1.2h2.7v-1h-6.2v-31H215v31h-39.6v-31h-2.1v31h-45.4v-31h-2.1v45.4h2.1v-0.1h45.4
+	v0.1h2.1v-0.1H215v0.1h2.1v-0.1h6.2v-1h-2.6v-1.6h-0.4v-9.3H220.7z M171.4,90.4v9.3H171v1.6h-2.7v-1.6H168v-9.3h0.4v-1.2h2.7v1.2
+	H171.4z M131.7,99.7v-9.3h0.4v-1.2h2.9v1.2h0.4v9.3h-0.4v1.6h-2.8v-1.6H131.7z M135.7,99.7v-9.3h0.4v-1.2h2.9v1.2h0.4v9.3H139v1.6
+	h-2.8v-1.6H135.7z M139.8,99.7v-9.3h0.4v-1.2h2.9v1.2h0.4v9.3H143v1.6h-2.8v-1.6H139.8z M143.8,99.7v-9.3h0.4v-1.2h2.9v1.2h0.4v9.3
+	H147v1.6h-2.8v-1.6H143.8z M147.8,99.7v-9.3h0.4v-1.2h2.9v1.2h0.4v9.3H151v1.6h-2.8v-1.6H147.8z M151.8,99.7v-9.3h0.4v-1.2h2.9v1.2
+	h0.4v9.3h-0.4v1.6h-2.8v-1.6H151.8z M155.9,99.7v-9.3h0.4v-1.2h2.9v1.2h0.4v9.3h-0.4v1.6h-2.8v-1.6H155.9z M159.9,99.7v-9.3h0.4
+	v-1.2h2.9v1.2h0.4v9.3h-0.4v1.6h-2.8v-1.6H159.9z M163.9,99.7v-9.3h0.4v-1.2h2.9v1.2h0.4v9.3h-0.4v1.6h-2.8v-1.6H163.9z M127.8,89.1
+	h3.1v1.2h0.4v9.3h-0.4v1.6h-3.1V89.1z M173.2,101.3h-1v-1.6h-0.4v-9.3h0.4v-1.2h1V101.3z M211.8,90.4v9.3h-0.4v1.6h-2.8v-1.6h-0.4
+	v-9.3h0.4v-1.2h2.9v1.2H211.8z M175.6,90.4v9.3h-0.2v-9.3H175.6z M176,99.7v-9.3h0.4v-1.2h2.9v1.2h0.4v9.3h-0.4v1.6h-2.8v-1.6H176z
+	 M180,99.7v-9.3h0.4v-1.2h2.9v1.2h0.4v9.3h-0.4v1.6h-2.8v-1.6H180z M184.1,99.7v-9.3h0.4v-1.2h2.9v1.2h0.4v9.3h-0.4v1.6h-2.8v-1.6
+	H184.1z M188.1,99.7v-9.3h0.4v-1.2h2.9v1.2h0.4v9.3h-0.4v1.6h-2.8v-1.6H188.1z M192.1,99.7v-9.3h0.4v-1.2h2.9v1.2h0.4v9.3h-0.4v1.6
+	h-2.8v-1.6H192.1z M196.2,99.7v-9.3h0.4v-1.2h2.9v1.2h0.4v9.3h-0.4v1.6h-2.8v-1.6H196.2z M200.2,99.7v-9.3h0.4v-1.2h2.9v1.2h0.4v9.3
+	h-0.4v1.6h-2.8v-1.6H200.2z M204.2,99.7v-9.3h0.4v-1.2h2.9v1.2h0.4v9.3h-0.4v1.6h-2.8v-1.6H204.2z M215,101.3h-2.3v-1.6h-0.4v-9.3
+	h0.4v-1.2h2.3V101.3z M219.9,99.7h-0.4v1.6h-2.4V89.1h2.4v1.2h0.4V99.7z"/>
+<text transform="matrix(1.2537 0 0 1 113.0337 71.5494)" class="st1 st4 st5">1616</text>
+<g id="g-bedroom-window">
+	<path id="bedroom-shutter-right" class="st1" d="M56.9,56.8v29.3h6.6V56.8H56.9z M62.3,84.4h-4.5V70.1h4.5V84.4z M62.3,68.4h-4.5
+		V58.2h4.5V68.4z"/>
+	<path id="bedroom-shutter-left" class="st1" d="M23.3,56.8v29.3h6.6V56.8H23.3z M28.6,84.4h-4.5V70.1h4.5V84.4z M28.6,68.4h-4.5
+		V58.2h4.5V68.4z"/>
+	<path id="bedroom-window-behind" class="st1" d="M54.9,56.9H32.1c-0.6,0-1.1,0.5-1.1,1.1v26.8c0,0.6,0.5,1.1,1.1,1.1h22.8
+		c0.6,0,1.1-0.5,1.1-1.1V58C56,57.4,55.5,56.9,54.9,56.9z"/>
+	<rect id="bedroom-window-right" x="44.5" y="58.6" class="st1" width="8.3" height="25.4"/>
+	<rect id="bedroom-window-left" x="33.5" y="58.6" class="st1" width="8.3" height="25.4"/>
+</g>
+<polygon id="garage-door-right" class="st1" points="409.6,62.1 416.4,68.7 416,109.7 359.9,110.1 360.5,67.9 366.9,61.9 "/>
+<polygon id="garage-door-left" class="st1" points="336.6,62.1 343.4,68.7 343,109.7 241,110.1 241.6,67.9 248,61.9 "/>
+<rect id="garageleft" x="221.7" y="58.1" class="st2" width="2.1" height="52.2"/>
+<rect id="garage-right" x="432.5" y="58.5" class="st2" width="2.2" height="51.8"/>
+<g id="g-vent">
+	<rect id="garage-vent" x="322.2" y="11.9" class="st0" width="10.2" height="12.3"/>
+	<line class="st0" x1="323" y1="13.8" x2="331.7" y2="13.8"/>
+	<line class="st0" x1="323" y1="14.9" x2="331.7" y2="14.9"/>
+	<line class="st0" x1="323" y1="16" x2="331.7" y2="16"/>
+	<line class="st0" x1="323" y1="17.1" x2="331.7" y2="17.1"/>
+	<line class="st0" x1="323" y1="18.2" x2="331.7" y2="18.2"/>
+	<line class="st0" x1="323" y1="19.3" x2="331.7" y2="19.3"/>
+	<line class="st0" x1="323" y1="20.4" x2="331.7" y2="20.4"/>
+	<line class="st0" x1="323" y1="21.5" x2="331.7" y2="21.5"/>
+	<line class="st0" x1="323" y1="22.6" x2="331.7" y2="22.6"/>
+</g>
+<rect x="223.5" y="52.6" class="st6" width="209" height="5.8"/>
+<polygon class="st7" points="454.4,49.8 327.9,0.3 201.4,49.8 200.9,58.3 223.2,58.2 223.4,48.6 327.9,5.5 432.4,48.6 432.5,58.2 
+	454.8,58.3 "/>
+</svg>
